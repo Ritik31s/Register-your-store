@@ -30,9 +30,9 @@ h1{color: white;font-weight: 500;}
     transition: 0.25;
     
 }
-.register input[type = "text"]:focus,.register input[type = "password"]:focus{
+.register input[type = "text"]:focus,.register input[type = "email"]:focus{
     width: 280px;
-    border-color: 771572;
+    border-color: #771572;
   }
   .register input[type = "submit"]{
     border:0;
